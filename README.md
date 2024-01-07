@@ -1,7 +1,6 @@
 # Rainfall-BMKG-KNN-Classifier
 # Implementasi Teknik Data Mining untuk Klasifikasi Data Prediksi Curah Hujan BMKG di Sulawesi Selatan
 
-![Logo Universitas Negeri Makassar (jika ada)](URL_logo_universitas)
 
 ## Informasi Artikel
 
